@@ -5,3 +5,4 @@
 - **Day 3:** Learned the indepth concepts of loops - 3/1/2025
 - **Day 4:** Learned the concept of Functions and Collections - 4/1/2025
 - **Day 5:** Learned the concept of Class and Objects - 5/1/2025
+- **Day 6:** Learned the concept of constructor and sel keywords - 6/1/2025
