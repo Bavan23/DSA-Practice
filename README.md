@@ -7,3 +7,4 @@
 - **Day 5:** Learned the concept of Class and Objects - 5/1/2025
 - **Day 6:** Learned the concept of constructor and sel keywords - 6/1/2025
 - **Day 7:** Learned the concept of Inheritance and Polymorphism - 7/1/2025
+- **Day 8:** Learned the concept of Encapsulation,Exception Handling and File Handling - 8/1
