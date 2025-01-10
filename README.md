@@ -9,4 +9,4 @@
 - **Day 7:** Learned the concept of Inheritance and Polymorphism - 7/1/2025
 - **Day 8:** Learned the concept of Encapsulation,Exception Handling and File Handling - 8/1/2025
 - **Day 9:** Learned the concept of map function and reasearched about DSA and its roadmap - 9/1/2025
-- **Day 10:** Learned the concept of String methods and ternery and planned roadmap for DSA - 10/1/202
+- **Day 10:** Learned the concept of String methods,indexing,ternery operator and planned roadmap for DSA - 10/1/2025
