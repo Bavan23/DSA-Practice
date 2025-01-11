@@ -10,3 +10,4 @@
 - **Day 8:** Learned the concept of Encapsulation,Exception Handling and File Handling - 8/1/2025
 - **Day 9:** Learned the concept of map function and reasearched about DSA and its roadmap - 9/1/2025
 - **Day 10:** Learned the concept of String indexing and Solved My first DSA Problem(TWO SUM) - 10/1/2025
+- **Day 11:** Learned the concept of deeply loops and some programs - 11/1/2025
