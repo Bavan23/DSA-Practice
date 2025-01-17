@@ -16,3 +16,4 @@
 - **Day 14:** No Learning due to Pongal - 14/1/2025
 - **Day 15:** No Learning due to Pongal - 15/1/2025
 - **Day 16:** No Learning due to Pongal - 16/1/2025
+- **Day 17:** Learned the concept of 2D Dictionaries and practised - 17/1/2025
