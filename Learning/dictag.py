@@ -23,8 +23,10 @@ print(a)
 a["Status"]="single"
 print(a)
 
-a.clear()
-print(a)
+#a.clear()
+#print(a)
 
-del a
+#del a
 
+for i,j in a.items():
+    print(i,j)
