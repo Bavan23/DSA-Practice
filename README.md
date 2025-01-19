@@ -18,3 +18,4 @@
 - **Day 16:** No Learning due to Pongal - 16/1/2025
 - **Day 17:** Learned the concept of 2D Dictionaries and practised - 17/1/2025
 - **Day 18:** Learned the concept of Random Func and done many real time small projects - 18/1/2025
+- **Day 19:** Learned the concept of types of args and list comprehension and match case statement - 19/1/2025
