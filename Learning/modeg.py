@@ -1,3 +1,3 @@
 import egmodule
 
-print(egmodule.cube(2))
+print(egmodule.cube(int(input("Enter the number  "))))
