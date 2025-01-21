@@ -20,3 +20,4 @@
 - **Day 18:** Learned the concept of Random Func and done many real time small projects - 18/1/2025
 - **Day 19:** Learned the concept of types of args and list comprehension and Match case statements - 19/1/2025
 - **Day 20:** Learned the concept of Variable Scope and '__name__' function -20/1/2025
+- **Day 21:** Learned and done Slot Machine and Hangman game -21/1/2025
