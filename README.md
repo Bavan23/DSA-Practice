@@ -22,3 +22,4 @@
 - **Day 20:** Learned the concept of Variable Scope and '__name__' function -20/1/2025
 - **Day 21:** Learned and done Slot Machine and Hangman game -21/1/2025
 - **Day 22:** Learned the concept of Duck Typing and Magic Methods -22/1/2025
+- **Day 23:** Learned the concept of Property Decorator and Decorator Function -23/1/2025
