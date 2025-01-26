@@ -25,3 +25,4 @@
 - **Day 23:** Learned the concept of Property Decorator and Decorator Function -23/1/2025
 - **Day 24:** Learned the concept of Decorators and Exception in Detail -24/1/2025
 - **Day 25:** Learned the concept of R/W of json and csv files -25/1/2025
+- **Day 26:** No Learning -26/1/2025
