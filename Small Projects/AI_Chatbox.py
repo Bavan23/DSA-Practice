@@ -1,27 +1,38 @@
-import requests
 
-API_KEY = "AIzaSyBc5qm8E0JHCWf08VJ1x4c3rmDIC_w3Uno"
-URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={API_KEY}"
+import google.generativeai as genai
 
-data = {
-    "contents": [{"parts": [{"text": "Explain how AI works"}]}]
+
+api_key = "AIzaSyDlfyGzh0JUVnZcIaXr3nzC4_28bquK5ws"
+
+genai.configure(api_key=api_key)
+
+
+generation_config = {
+    "temperature": 1,
+    "top_p": 0.95,
+    "top_k": 40,
+    "max_output_tokens": 8192,
+    "response_mime_type": "text/plain",
 }
 
-headers = {"Content-Type": "application/json"}
 
-response = requests.post(URL, json=data, headers=headers)
-print(response.json())  # Print API response
-import requests
+model = genai.GenerativeModel(
+    model_name="gemini-pro",
+    generation_config=generation_config,
+)
 
-API_KEY = "YOUR_GEMINI_API_KEY"
-URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={API_KEY}"
 
-data = {
-    "contents": [{"parts": [{"text": "Explain how AI works"}]}]
-}
+chat_session = model.start_chat(history=[])
 
-headers = {"Content-Type": "application/json"}
 
-response = requests.post(URL, json=data, headers=headers)
-print(response.json())  # Print API response
+print("\n🤖 AI Chatbot: Type 'exit' to quit.\n")
 
+while True:
+    user_input = input("You: ")
+    
+    if user_input.lower() == "exit":
+        print("Chatbot: 👋 Goodbye!")
+        break
+    
+    response = chat_session.send_message(user_input)
+    print(f"Chatbot: {response.text}\n")

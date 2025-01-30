@@ -9,8 +9,7 @@ def main():
         response=requests.get(url)
 
         if response.status_code==200:
-            pokemon_data=response.json()
-            return pokemon_data
+            return response.json()
         else:
             print(f"Failed to retrieve data for {name}. Status code: {response.status_code}")
             return None

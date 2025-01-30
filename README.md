@@ -29,3 +29,4 @@
 - **Day 27:** No Learning -27/1/2025
 - **Day 28:** Learned the concept of Datetime Function -28/1/2025
 - **Day 29:** Learned the concept of Threading and API Requests -29/1/2025
+- **Day 30:** Learned the concept of PyQt5 GUI -30/1/2025
