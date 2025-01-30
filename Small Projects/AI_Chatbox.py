@@ -1,11 +1,8 @@
-
 import google.generativeai as genai
 
-
-api_key = "AIzaSyDlfyGzh0JUVnZcIaXr3nzC4_28bquK5ws"
+api_key = ""
 
 genai.configure(api_key=api_key)
-
 
 generation_config = {
     "temperature": 1,
@@ -15,22 +12,19 @@ generation_config = {
     "response_mime_type": "text/plain",
 }
 
-
 model = genai.GenerativeModel(
     model_name="gemini-pro",
     generation_config=generation_config,
 )
 
-
 chat_session = model.start_chat(history=[])
-
 
 print("\n🤖 AI Chatbot: Type 'exit' to quit.\n")
 
 while True:
     user_input = input("You: ")
-    
-    if user_input.lower() == "exit":
+    exit=["exit","bye"]
+    if user_input.lower() in exit:
         print("Chatbot: 👋 Goodbye!")
         break
     
