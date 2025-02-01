@@ -31,3 +31,4 @@
 - **Day 29:** Learned the concept of Threading and API Requests -29/1/2025
 - **Day 30:** Learned the concept of PyQt5 GUI -30/1/2025
 - **Day 31:** Learned the concept of PyQt5 GUI -31/1/2025
+- **Day 32:** Created Project - Digital Clock,Stopwatch and Weather App-1/2/2025
