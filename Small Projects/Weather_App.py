@@ -45,7 +45,7 @@ class WeatherApp(QWidget):
 
         self.setStyleSheet("""
     QWidget {
-        background-color: #b2ceeb;
+                background-color: #f0f0f0;
     }
     
     QLabel, QPushButton {
