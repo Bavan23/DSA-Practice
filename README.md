@@ -36,9 +36,3 @@
 - **Day 34:** Learned the OOPS concept -3/2/2025
 - **Day 35:** No Learning -4/2/2025
 - **Day 36:** Learned the OOPS concept-5/2/2025
-- **Day 37:** No learning -6/2/2025
-- **Day 38:** No learning -7/2/2025
-- **Day 39:** No learning -8/2/2025
-- **Day 40:** No learning -9/2/2025
-- **Day 41:** No learning -10/2/2025
-- **Day 42:** Learned the Complete OOPS concept-11/2/2025
