@@ -42,3 +42,4 @@
 - **Day 40:** No learning -9/2/2025
 - **Day 41:** No learning -10/2/2025
 - **Day 42:** Learned the Complete OOPS concept-11/2/2025
+- **Day 43:** Learned the Array concept-12/2/2025
