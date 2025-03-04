@@ -2,9 +2,18 @@ import sys
 import google.generativeai as genai
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QTextEdit, QLineEdit, QPushButton, QScrollArea, QHBoxLayout
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+api_key = os.getenv("API_KEY")
+print(api_key)
+
+api__key = os.getenv("API_KEY")
 
 # Configure the Generative AI with the API key
-api_key = ""  # Add your Google Generative AI API Key here
+api_key = api__key  # Add your Google Generative AI API Key here
 genai.configure(api_key=api_key)
 
 generation_config = {
