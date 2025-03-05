@@ -44,4 +44,5 @@
 - **Day 42:** Learned the Complete OOPS concept-11/2/2025
 - **Day 43:** Learned the Array concept-12/2/2025
 - **Day 44:** Revised Fully - 13/2/2025
-- **Day 45:** Solved Basic Problems - 5/3/2025
+- **Day 45:** Solved 10 Basic Problems - 5/3/2025
+- **Day 46:** Solved 10 Basic Problems - 6/3/2025
