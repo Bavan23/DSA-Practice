@@ -52,5 +52,6 @@
 - **Day 50:** Learned the concept of Linked List - 13/3/2025
 - **Day 51:** Learned the concept of Linked List - 14/3/2025
 - **Day 52:** Revised Linked List - 17/3/2025
+- **Day 53:** Solve LeetCode Problem for LinkedList(2) - 18/3/2025
 
 
