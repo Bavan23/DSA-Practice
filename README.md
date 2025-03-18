@@ -1,4 +1,4 @@
-# Daily Code Journal
+# Daily Code Journal 🚀
 
 - **Day 1:** learned the basic of python - 1/1/2025
 - **Day 2:** Learned the concepts of operators and conditional - 2/1/2025
@@ -53,5 +53,7 @@
 - **Day 51:** Learned the concept of Linked List - 14/3/2025
 - **Day 52:** Revised Linked List - 17/3/2025
 - **Day 53:** Solve LeetCode Problem for LinkedList(2) - 18/3/2025
+
+
 
 
