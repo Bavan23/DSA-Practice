@@ -57,7 +57,7 @@
 - **Day 55:** Solve LeetCode Problem for LinkedList(1) - 20/3/2025
 - **Day 56:** Solve LeetCode Problem for LinkedList(2) - 21/3/2025
 - **Day 57:** Solve LeetCode Problem for Array(1) - 22/3/2025
-
+- **Day 58:** Solve LeetCode Problem for Array(1) Bit Manupulation and Math(2)- 31/3/2025
 
 
 
