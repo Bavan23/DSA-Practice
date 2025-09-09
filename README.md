@@ -59,7 +59,7 @@
 - **Day 57:** Solve LeetCode Problem for Array(1) - 22/3/2025
 - **Day 58:** Solve LeetCode Problem for Array(1) Bit Manupulation and Math(2)- 31/3/2025
 - **Day 59:** Restarted the Journey Again!. Learned Doubly Linked List the concept - 7/9/2025
-- Day 60:** Learned Doubly Linked List the concept (Append,Pop) - 9/9/2025
+- **Day 60:** Learned Doubly Linked List the concept (Append,Pop) - 9/9/2025
 
 
 
