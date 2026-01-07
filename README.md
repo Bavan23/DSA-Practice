@@ -61,5 +61,7 @@
 - **Day 59:** Restarted the Journey Again!. Learned Doubly Linked List the concept - 7/9/2025
 - **Day 60:** Learned the Doubly Linked List concept (Append,Pop) - 9/9/2025
 - **Day 61:** Learned the Doubly Linked List All concepts - 13/9/2025
+- **Day 62:** Solved the basic funtions in Doubly Linked List - 7/1/2026
+
 
 
