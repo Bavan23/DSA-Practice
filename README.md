@@ -64,6 +64,7 @@
 - **Day 62:** Solved the basic funtions in Doubly Linked List - 7/1/2026
 - **Day 63:** Solved the problems in Doubly Linked List - 8/1/2026
 - **Day 64:** Solved the problems in Doubly Linked List - 12/1/2026
+- **Day 65:** Solved the problems in Doubly Linked List - 13/1/2026
 
 
 
