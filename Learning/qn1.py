@@ -1,6 +1,0 @@
-print("Enter your name- ")
-name=input()
-print("Enter Your Age- ")
-age=input()
-print("My name is "+name)
-print("My age is",age)
