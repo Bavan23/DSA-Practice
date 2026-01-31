@@ -71,8 +71,5 @@
 - **Day 69:** Learned the Typecasting and Inputs of Java - 27/1/2026
 - **Day 70:** Learned the Conditional statements and Loops in Java - 28/1/2026
 - **Day 71:** Learned the switch statements and methods in Java - 29/1/2026
-<<<<<<< HEAD
 - **Day 72:** Learned the methods in Java - 30/1/2026
-=======
-- **Day 72:** Learned the methods in Java - 30/1/2026
->>>>>>> e100bdb5e5f6a3657aa0ac4293c41e9ddeee0d76
+- **Day 73:** Learned the methods in Java - 31/1/2026
