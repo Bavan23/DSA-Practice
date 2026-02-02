@@ -74,3 +74,4 @@
 - **Day 72:** Learned the methods in Java - 30/1/2026
 - **Day 73:** Learned the methods in Java - 31/1/2026
 - **Day 73:** Solved some leetcode problems in Java - 1/2/2026
+- **Day 73:** Learned Strings concept in Java - 2/2/2026
