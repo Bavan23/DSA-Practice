@@ -76,3 +76,4 @@
 - **Day 74:** Solved some leetcode problems in Java - 1/2/2026
 - **Day 75:** Learned Strings concept in Java - 2/2/2026
 - **Day 76:** Learned Strings,2d array concept in Java - 3/2/2026
+- **Day 77:** Learned 2d array,Binary search concept in Java - 4/2/2026
