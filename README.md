@@ -80,3 +80,4 @@
 - **Day 78:** Solved some leetcode problems in Java - 5/2/2026
 - **Day 79:** Learned OOPS concept in Java - 6/2/2026
 - **Day 80:** Learned OOPS concept in Java - 7/2/2026
+- **Day 81:** Learned OOPS concept in Java - 8/2/2026
