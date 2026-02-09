@@ -81,3 +81,4 @@
 - **Day 79:** Learned OOPS concept in Java - 6/2/2026
 - **Day 80:** Learned OOPS concept in Java - 7/2/2026
 - **Day 81:** Learned OOPS concept in Java - 8/2/2026
+- **Day 82:** Learned Packages concept in Java - 9/2/2026
