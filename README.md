@@ -83,3 +83,4 @@
 - **Day 81:** Learned OOPS concept in Java - 8/2/2026
 - **Day 82:** Learned Packages concept in Java - 9/2/2026
 - **Day 82:** Learned File handling concept in Java - 10/2/2026
+- **Day 82:** Learned Multi-threading concept in Java - 11/2/2026
