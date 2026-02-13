@@ -85,3 +85,4 @@
 - **Day 83:** Learned File handling concept in Java - 10/2/2026
 - **Day 84:** Learned Multi-threading concept in Java - 11/2/2026
 - **Day 85:** Learned Linked List concept in Java - 12/2/2026
+- **Day 86:** Learned Linked List concept in Java - 13/2/2026
