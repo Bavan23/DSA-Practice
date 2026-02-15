@@ -87,3 +87,4 @@
 - **Day 85:** Learned Linked List concept in Java - 12/2/2026
 - **Day 86:** Learned Linked List concept in Java - 13/2/2026
 - **Day 87:** Learned Doubly Linked List concept in Java - 14/2/2026
+- **Day 88:** Learned Doubly Linked List concept in Java - 15/2/2026
