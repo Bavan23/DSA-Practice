@@ -93,3 +93,4 @@
 - **Day 91:** Learned Queue concept in Java - 18/2/2026
 - **Day 92:** Learned Queue concept in Java - 19/2/2026
 - **Day 93:** Learned Linear Search concept in Java - 20/2/2026
+- **Day 94:** Learned Binary Linear concept in Java - 21/2/2026
