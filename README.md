@@ -97,3 +97,4 @@
 - **Day 95:** Learned Binary search concept in Java - 22/2/2026
 - **Day 96:** Solved leetcode problems in Java - 23/2/2026
 - **Day 97:** Solved leetcode problems  in Java - 24/2/2026
+- **Day 98:** Learned 2d matrix Binary search concept in Java  in Java - 25/2/2026
