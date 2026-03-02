@@ -102,3 +102,4 @@
 - **Day 100:** Learned Bubble Sort concept in Java - 27/2/2026
 - **Day 101:** Learned Selection Sort concept in Java - 28/2/2026
 - **Day 102:** Learned Quick sort in Java - 1/3/2026
+- **Day 103:** Solved some leetcode problems in Java - 2/3/2026
