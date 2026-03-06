@@ -106,3 +106,4 @@
 - **Day 104:** Solved some leetcode problems in Java - 3/3/2026
 - **Day 105:** Solved some leetcode problems in Java - 4/3/2026
 - **Day 106:** Solved some leetcode problems in Java - 5/3/2026
+- **Day 107:** Solved some leetcode problems in Java - 6/3/2026
