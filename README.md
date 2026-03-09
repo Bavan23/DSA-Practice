@@ -101,7 +101,7 @@
 - **Day 99:** Learned 2d matrix Binary search concept in Java - 26/2/2026
 - **Day 100:** Learned Bubble Sort concept in Java - 27/2/2026
 - **Day 101:** Learned Selection Sort concept in Java - 28/2/2026
-- **Day 102:** Learned Quick sort in Java - 1/3/2026
+- **Day 102:** Learned Insertion sort in Java - 1/3/2026
 - **Day 103:** Solved some leetcode problems in Java - 2/3/2026
 - **Day 104:** Solved some leetcode problems in Java - 3/3/2026
 - **Day 105:** Solved some leetcode problems in Java - 4/3/2026
@@ -109,3 +109,4 @@
 - **Day 107:** Solved some leetcode problems in Java - 6/3/2026
 - **Day 108:** Solved some leetcode problems in Java - 7/3/2026
 - **Day 109:** Solved some leetcode problems in Java - 8/3/2026
+- **Day 110:** Solved some leetcode problems in Java - 9/3/2026
