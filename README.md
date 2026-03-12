@@ -112,3 +112,4 @@
 - **Day 110:** Solved some leetcode problems in Java - 9/3/2026
 - **Day 111:** Solved some leetcode problems in Java - 10/3/2026
 - **Day 112:** Learned Cycle sort in Java - 11/3/2026
+- **Day 112:** Learned Quick sort in Java - 11/3/2026
