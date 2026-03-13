@@ -113,4 +113,4 @@
 - **Day 111:** Solved some leetcode problems in Java - 10/3/2026
 - **Day 112:** Learned Cycle sort in Java - 11/3/2026
 - **Day 113:** Learned Quick sort in Java - 12/3/2026
-  - **Day 114:** Learned Strings and Stringbuilder in Java - 13/3/2026
+- **Day 114:** Learned Strings and Stringbuilder in Java - 13/3/2026
