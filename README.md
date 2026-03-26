@@ -120,3 +120,4 @@
 - **Day 118:** Revised and practised sorting in Java - 17/3/2026
 - **Day 119:** Learned Strings DS in Java - 24/3/2026
 - **Day 120:** Learned Strings DS in Java - 25/3/2026
+- **Day 121:** Learned Stringbuilder in Java - 26/3/2026
