@@ -123,3 +123,4 @@
 - **Day 121:** Learned Stringbuilder in Java - 26/3/2026
 - **Day 122:** Learned Pattern printing in Java - 28/3/2026
 - **Day 123:** Learned Basics of Recursion in Java - 29/3/2026
+- **Day 124:** Learned Basics of Recursion in Java - 30/3/2026
