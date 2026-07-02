@@ -128,3 +128,4 @@
 - **Day 126:** Learned Time and space complexity in Java - 1/4/2026
 - **Day 126:** Revised some leetcode problems in Java - 3/4/2026
 - **Day 127:** Revised some leetcode problems in Java - 6/4/2026
+- **Day 128:** Learned in bitwise operators and number systems Java -2/7/2026
