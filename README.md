@@ -130,3 +130,4 @@
 - **Day 127:** Revised some leetcode problems in Java - 6/4/2026
 - **Day 128:** Learned in bitwise operators and number systems Java - 2/7/2026
 - **Day 129:** Learned in Maths for DSA Java - 3/7/2026
+- **Day 130:** Learned in Maths for DSA Java - 4/7/2026
