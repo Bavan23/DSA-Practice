@@ -1,4 +1,4 @@
-# Daily Code Journal 🚀
+# Daily Code Journal🚀
 
 - **Day 1:** Learned the basic of python - 1/1/2025
 - **Day 2:** Learned the concepts of operators and conditional - 2/1/2025
