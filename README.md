@@ -149,3 +149,4 @@
 - **Day 146:** Solved Matrix + Pattern Printing problems in Java - 18/8/2026
 - **Day 147:** Solved Recursion + Backtracking problems in Java - 21/8/2026
 - **Day 148:** Solved Recursion + Backtracking problems in Java - 23/8/2026
+- **Day 149:** Solved Recursion + Backtracking problems in Java - 24/8/2026
