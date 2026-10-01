@@ -155,3 +155,4 @@
 - **Day 152:** Revised Matrix + Pattern Printing problems in Java - 28/8/2026
 - **Day 153:** Solved Recursion + Backtracking problems in Java - 29/8/2026
 - **Day 154:** Solved Recursion + Backtracking problems in Java - 31/8/2026
+- **Day 154:** Solved Stack problems in Java - 1/10/2026
