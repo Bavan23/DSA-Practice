@@ -159,3 +159,4 @@
 - **Day 156:** Solved Stack problems in Java - 2/10/2026
 - **Day 157:** Solved Queue problems in Java - 3/10/2026
 - **Day 158:** Solved Queue problems in Java - 4/10/2026
+- **Day 159:** Solved Queue problems in Java - 5/10/2026
