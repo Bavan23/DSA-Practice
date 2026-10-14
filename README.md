@@ -167,3 +167,5 @@
 - **Day 164:** Revised Stack and Queue problems in Java - 10/10/2026
 - **Day 165:** Revised Stack and Queue problems in Java - 11/10/2026
 - **Day 166:** Revised Stack and Queue problems in Java - 12/10/2026
+- **Day 167:** Revised Stack and Queue problems in Java - 13/10/2026
+- **Day 168:** Revised Stack and Queue problems in Java - 14/10/2026
