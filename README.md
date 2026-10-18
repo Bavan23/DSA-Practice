@@ -171,3 +171,4 @@
 - **Day 168:** Revised Stack and Queue problems in Java - 14/10/2026
 - **Day 169:** Revised Stack and Queue problems in Java - 15/10/2026
 - **Day 170:** Learned Trees in Java - 17/10/2026
+- **Day 171:** Learned Binary Trees in Java - 18/10/2026
