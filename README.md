@@ -182,3 +182,4 @@
 - **Day 179:** Learned Binary Search Trees in Java - 21/11/2026
 - **Day 180:** Learned Binary Search Trees in Java - 24/11/2026
 - **Day 181:** Learned Binary Search Trees in Java - 25/11/2026                      
+- **Day 182:** Practised Binary Search Trees in Java - 26/11/2026      
